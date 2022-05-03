@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xL1n
-- 👀 I’m interested in learning new things related to IT
-- 🌱 I’m currently learning Electrical and Electronic Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m Xianglin Pu
+- 👀 I’m interested in learning new things related to IoT, and making interesting stuff.
+- 🌱 I’m currently learning BEng Electronic and Electrical Engineering at University of Leeds.
+- 📫: pxl1907@163.com
 
 <!---
 xL1n/xL1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
