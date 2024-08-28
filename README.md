@@ -1,8 +1,7 @@
-- 👋 Hello, I’m Xianglin Pu
-- 👀 I’m interested in learning new things related to IoT, and making interesting stuff.
-- ✍🏻 I have posted some mini projects I have done with descriptions and implementations
-- 🌱 I’m currently learning BEng Electronic and Electrical Engineering at University of Leeds.
-- 📫: pxl1907@163.com
+- 👋 Hello, I’m Xianglin Pu, Currently studying Electrical Engineering @ Columbia University, NY
+- 👀 I’m interested in Digital & Analog Circuit, VLSI and Formal Hardware Verification
+- ✍🏻 I have posted some projects I have done with descriptions and implementations
+- 📫: Please Contact Me: xp2221@columbia.edu
 
 <!---
 xL1n/xL1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
